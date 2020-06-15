@@ -1,5 +1,5 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "最強の風俗案内所💁"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
