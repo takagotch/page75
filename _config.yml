@@ -31,19 +31,21 @@ exclude:
   - .idea/
   - .gitignore
   - vendor
+
+
 # these are the files and directories that jekyll will exclude from the build
-
+#
 feedback_subject_line: 件名：「」、名前：「」
-
+#
 feedback_email: takagotch@activated.sakura.ne.jp
 # used as a contact email for the Feedback link in the top navigation bar
-
+#
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
-
+#
 feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
-
+#
 feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
