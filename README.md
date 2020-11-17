@@ -3,7 +3,7 @@
 ### https://takagotch.github.io/page75/
 
 
-[source](https://github.com/tomjoht/documentation-theme-jekyll)
+[source | https://github.com/tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll)
 
 ---
 
